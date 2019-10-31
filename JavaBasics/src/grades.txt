@@ -1,0 +1,10 @@
+pit,12341,informatics,m1i,9
+pit,12341,informatics,m2i,-
+kost,34561,economics,m1e,-
+kris,23451,shipping,m1s,-
+nik,12342,informatics,m1i,-
+anma,12343,informatics,m1i,-
+dio,12344,informatics,m1i,-
+nik,12342,informatics,m2i,-
+anma,12343,informatics,m2i,-
+dio,12344,informatics,m2i,-
