@@ -16,7 +16,7 @@ and is a practise program for the final projects of the class_
 > 2. The characteristics are (username, name, surname, department, registration number etc.)
 > 3. Typical getters ans setters for all variables
 > 4. Typical constructor for the class Users
-> 5. Sub class Students that users the class Users' characteristics and methods
+> 5. Sub class Students that uses the class Users' characteristics and methods
 > 6. Sub class Professors
 > 7. Class Courses and Grades
 > 8. Class CreateUsers where main() method is, taht will create objects of type Users, Students, Professors and Secretaries
